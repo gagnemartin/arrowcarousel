@@ -1,7 +1,3 @@
-window.onload = function() {
-	console.log('loaded')
-}
-
 const Carousel = function(options)
 {
 	let self = this
